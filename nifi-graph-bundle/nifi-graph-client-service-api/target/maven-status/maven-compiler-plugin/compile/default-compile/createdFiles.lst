@@ -1,0 +1,3 @@
+org/apache/nifi/graph/GraphClientService.class
+org/apache/nifi/graph/TinkerPopClientService.class
+org/apache/nifi/graph/GraphQueryResultCallback.class
